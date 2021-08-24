@@ -1,0 +1,1 @@
+This is a the implementation of an AI that play 2048, it was implemented using ExpectiMax algorithm. A heuristic was created that prioritizes survival. Which in the long run leads to a victory
